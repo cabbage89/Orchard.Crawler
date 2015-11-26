@@ -1,0 +1,11 @@
+﻿Name: Cabbage.Crawler
+AntiForgery: enabled
+Author: 深圳市聚乾科技开发有限公司
+Website: http://www.juqian168.com/
+Version: 1.0
+OrchardVersion: 1.0
+Description: (默认)使用WebBrowser控件渲染页面,使用Javascript脚本注入页面(可选择注入jquery)进行数据读取,然后通过浏览器回调.NET接口
+Category: Content
+Features:
+    Cabbage.Crawler:
+        Description: Description for feature Cabbage.Crawler.
